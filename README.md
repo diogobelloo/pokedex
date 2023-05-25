@@ -16,7 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript 
 - API
 
-## 💻 Projeto
+## 💻 Sobre o projeto
+
+diogobelo69.github.io/pokedex/
 
 O pokedex é um projeto desenvolvido para listagem de pokémons consumindo uma API direto da https://pokeapi.co/.
 
